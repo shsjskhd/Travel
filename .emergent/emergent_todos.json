@@ -1,0 +1,70 @@
+[
+  {
+    "content": "Baseline: clone repo, install deps, seed, gate.sh HIJAU, site renders",
+    "status": "completed"
+  },
+  {
+    "content": "Read plan.md + audit CMS code state (content.py, public.py, ContentManager, guardrails, scheduler)",
+    "status": "in_progress"
+  },
+  {
+    "content": "Get integration playbook for AI translation (Emergent LLM key)",
+    "status": "pending"
+  },
+  {
+    "content": "Phase 1 POC: single script covering scheduled publish + preview token + review funnel token + AI translate + richtext sanitize",
+    "status": "pending"
+  },
+  {
+    "content": "Phase 1: fix until POC 100% PASS",
+    "status": "pending"
+  },
+  {
+    "content": "Phase 2 A1: fix CMS preview links + public Packages pages (/packages, /packages/:slug)",
+    "status": "pending"
+  },
+  {
+    "content": "Phase 2 A2: complete promo rules form in CMS (valid_from, min_days, min_amount, vehicle_types, services, weekend_only, max_uses, used_count)",
+    "status": "pending"
+  },
+  {
+    "content": "Phase 2 A3: public /promo page with copy-code + CTA into booking wizard",
+    "status": "pending"
+  },
+  {
+    "content": "Phase 2 B: CMS-05 draft/scheduled/published + preview token UI + auto-publish scheduler",
+    "status": "pending"
+  },
+  {
+    "content": "Phase 2 C: CMS-06 multi-language ID/EN + lang selector + hreflang + AI translate button",
+    "status": "pending"
+  },
+  {
+    "content": "Phase 2 D: CMS-07 review funnel -> testimonial moderation + aggregate rating",
+    "status": "pending"
+  },
+  {
+    "content": "Phase 2 E: CMS-08 content views + lead/booking attribution + CMS analytics panel",
+    "status": "pending"
+  },
+  {
+    "content": "Phase 2 F: CMS-09 block rich text editor + safe public rendering",
+    "status": "pending"
+  },
+  {
+    "content": "Phase 2: all user stories covered in development",
+    "status": "pending"
+  },
+  {
+    "content": "gate.sh HIJAU after changes (no regression) + ux_audit + compliance",
+    "status": "pending"
+  },
+  {
+    "content": "Phase 2: End to End Testing using testing_agent_v3 + fix all reported bugs",
+    "status": "pending"
+  },
+  {
+    "content": "Update SSOT docs (data model, API contract, nav map, codebase map, memory, CMS plan status, plan.md)",
+    "status": "pending"
+  }
+]
